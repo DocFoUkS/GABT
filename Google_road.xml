@@ -7,11 +7,11 @@
               <Origin x="-180.000000" y="-90.000000" />  
               <TileFormat width="256" height="256" mime-type="image/png" extension="png" />
               <TileSets>
-                 <TileSet href="https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
+                 <TileSet href="https://mt1.google.com/vt/lyrs=m/0"
                           units-per-pixel="0.70312500000000000000" order="0" />
-                 <TileSet href="https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
+                 <TileSet href="https://mt1.google.com/vt/lyrs=m/1"
                           units-per-pixel="0.35156250000000000000" order="1" />
-                 <TileSet href="https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
+                 <TileSet href="https://mt1.google.com/vt/lyrs=m/2"
                           units-per-pixel="0.17578125000000000000" order="2" />
                  <TileSet href="https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
                           units-per-pixel="0.08789062500000000000" order="3" />
