@@ -10,4 +10,12 @@
       profile="local"
       href="https://raw.githubusercontent.com/DocFoUkS/GABT/master/Google_road.xml" />
   </TileMaps>
+  <TileMaps>
+    <TileMap
+      title="Google_Sat"
+      srs="EPSG:4326"
+      type="InvertedTMS"
+      profile="local"
+      href="https://raw.githubusercontent.com/DocFoUkS/GABT/master/Google_Sat.xml" />
+  </TileMaps>
 </TileMapService>
