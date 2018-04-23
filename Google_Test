@@ -8,7 +8,7 @@
       srs="EPSG:4326"
       type="InvertedTMS"
       profile="local"
-      href="https://raw.githubusercontent.com/DocFoUkS/GABT/master/Google_road.xml" />
+      href="https://raw.githubusercontent.com/DocFoUkS/GABT/master/Google_road.xml"/>
   </TileMaps>
   <TileMaps>
     <TileMap
@@ -16,6 +16,6 @@
       srs="EPSG:4326"
       type="InvertedTMS"
       profile="local"
-      href="https://raw.githubusercontent.com/DocFoUkS/GABT/master/Google_Sat.xml" />
+      href="https://raw.githubusercontent.com/DocFoUkS/GABT/master/Google_Sat.xml"/>
   </TileMaps>
 </TileMapService>
